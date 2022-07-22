@@ -1,4 +1,4 @@
-### :money: Loan calculator
+### 💵: Loan calculator
 
 
 This program allows you to calculate the principal loan, the monthly payment and the number of periods you need to pay off the principal.
